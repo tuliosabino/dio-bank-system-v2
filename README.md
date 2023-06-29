@@ -1,4 +1,4 @@
-# Simulação de Sistema Bancário 💰
+# Simulação de Sistema Bancário v2 💰
 Este script implementa uma simulação básica de um sistema bancário, proposta em um desafio de código do bootcamp **_Potência Tech powered by iFood_**, permitindo que o usuário realize depósitos, saques, consulte o extrato, crie usuários, contas e liste todas as contas criadas.
 
 Esta é a segunda versão do código que, além dos fundamentos, utiliza de funções para manter o código mais organizado e melhorar sua modularidade e adiciona as funções para criar usuários, contas e listagem das contas.
